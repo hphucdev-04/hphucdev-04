@@ -16,9 +16,9 @@
 
 - 🔭 Currently building **SupplyCoreERP** — an ABP Framework ERP system for supply chain & inventory operations
 - 🧩 Built **Cube**, a full-featured TypeScript coding-agent CLI on the Mastra framework — auth, tools, memory, workspace config, and its custom terminal UI
-- 🌱 Specializing in **Backend Development**: C# / ASP.NET Core, Domain-Driven Design (DDD) & Microservices architecture
+- 🌱 Specializing in **Backend Development**: Clean Architecture & Domain-Driven Design (DDD) 
 - ⚡ Core stack: .NET Core, PostgreSQL, Docker, Angular, TypeScript
-- 🎯 Focused on writing clean, scalable, and maintainable systems — from backend architecture to developer-facing UX
+- 🎯 Focused on writing clean, scalable, and maintainable backend systems
 - 📫 Reach me at **phuc.ph24012004@gmail.com**
 
 ---
@@ -33,10 +33,10 @@
 
 ABP Framework layered-monolith ERP for supply, inventory & business operations.
 
-- ASP.NET Core / .NET 10 backend, Angular 20 frontend
+- ABP/.NET 10 backend is divided into 6 distinct layer: Application, Application.Contract, Domain, Domain.Shared, EFCore, HttpApi
+- Angular 20 organized according to standalone component
 - PostgreSQL + EF Core, OpenIddict auth
-- TypeScript MCP server, Docker Compose orchestration
-- [Live demo](https://rxlogistics.vercel.app/)
+- Chatbot with ReAct loop and MCP tool
 
 </td>
 <td width="50%" valign="top">
@@ -83,13 +83,12 @@ TypeScript monorepo coding-agent CLI, built end-to-end on the **Mastra** framewo
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-**DevOps & Tools**
+**DevOps**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hangfire-333333?style=for-the-badge"/>
 </p>
 
 **Coding Tools**
@@ -103,18 +102,11 @@ TypeScript monorepo coding-agent CLI, built end-to-end on the **Mastra** framewo
 
 ---
 
-### 🧊 3D Contributions
+### Contributions
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+  <img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D contribution graph" />
 </p>
-
-<sub>Ảnh trên do GitHub Actions tự sinh và commit thẳng vào repo (xem <code>.github/workflows/profile-assets.yml</code>) — không gọi API bên ngoài lúc hiển thị nên không bao giờ lỗi fetch. Chạy tay trong tab <b>Actions → Generate Profile Assets → Run workflow</b> để tạo lần đầu / cập nhật lại.</sub>
 
 ---
 
-<p align="left">
-  <a href="mailto:phuc.ph24012004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center"><i>⭐ Always open to collaborating on backend & microservices projects.</i></p>
