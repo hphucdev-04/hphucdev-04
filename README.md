@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Phạm Hoài Phúc</h1>
-<h3 align="center">Backend Developer | .NET & Microservices Enthusiast</h3>
+<h3 align="center">Software Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Developer+%40+.NET+Core;UI%2FUX+for+Developer+Tools;Building+SupplyCoreERP+%26+Cube" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Developer+%40+.NET+Core;Building+SupplyCoreERP+%26+Cube" alt="Typing SVG" />
 </p>
 
 <p align="center">
