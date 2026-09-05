@@ -1,7 +1,7 @@
 name: Generate Profile Assets
 
 on:
-  workflow_dispatch: {}   # chỉ chạy khi bấm "Run workflow" trong tab Actions
+  workflow_dispatch: {}   
 
 jobs:
   build:
@@ -9,13 +9,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}   
           USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 100
 
       - name: Commit & push generated assets
         run: |
