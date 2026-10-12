@@ -12,51 +12,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 Currently building **SupplyCoreERP** — an ABP Framework ERP system for supply chain & inventory operations
-- 🧩 Built **Cube**, a full-featured TypeScript coding-agent CLI on the Mastra framework — auth, tools, memory, workspace config, and its custom terminal UI
-- 🌱 Specializing in **Backend Development**: Clean Architecture & Domain-Driven Design (DDD) 
-- ⚡ Core stack: .NET Core, PostgreSQL, Docker, Angular, TypeScript
-- 🎯 Focused on writing clean, scalable, and maintainable backend systems
-- 📫 Reach me at **phuc.ph24012004@gmail.com**
-
----
-
-### 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏭 [SupplyCoreERP](https://github.com/hphucdev-04/SupplyCoreERP)**
-
-ABP Framework layered-monolith ERP for supply, inventory & business operations.
-
-- ABP/.NET 10 backend is divided into 6 distinct layer: Application, Application.Contract, Domain, Domain.Shared, EFCore, HttpApi
-- Angular 20 organized according to standalone component
-- PostgreSQL + EF Core, OpenIddict auth
-- Chatbot with ReAct loop and MCP tool
-
-</td>
-<td width="50%" valign="top">
-
-**🧩 [Cube](https://github.com/hphucdev-04/cube)**
-
-TypeScript monorepo coding-agent CLI, built end-to-end on the **Mastra** framework.
-
-- 3 auth modes: **API key**, **subscription**, and **local model**
-- Full tool system, workspace management, memory (Mastra Observational Memory), and file-based config
-- Custom terminal UI (`pi-tui`) with a WCAG 2.1 / OKLCH-audited multi-theme system
-- Slash commands (`/model`, `/resume`, `/fork`, `/compact`), subagent delegation, diff-approval UI
-
-</td>
-</tr>
-</table>
-
----
-
-### 🛠 Tech Stack & Tools
 
 **Languages**
 
