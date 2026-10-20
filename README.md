@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoai Phuc</h1>
-<h3 align="center">Software Engineering</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Developer+%40+.NET+Core;Building+SupplyCoreERP+%26+Cube" alt="Typing SVG" />
-</p>
+<h2 align="center">Software Engineering</h3>
 
 <p align="center">
   <a href="mailto:phuc.ph24012004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
