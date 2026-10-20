@@ -53,11 +53,4 @@
 
 ---
 
-### Contributions
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D contribution graph" />
-</p>
-
----
 
