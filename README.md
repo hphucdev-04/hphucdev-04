@@ -1,13 +1,30 @@
 <h1 align="center">Hi 👋, I'm Hoai Phuc</h1>
-<h2 align="center">Software Engineering</h3>
+<h2 align="center">Software Engineer · Full-stack · AI Agents</h2>
 
 <p align="center">
   <a href="mailto:phuc.ph24012004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
+## 🚀 Featured Projects
+
+### [Cube](https://github.com/cube-harness/cube)
+A coding agent CLI built end-to-end.
+- Three auth modes: API key, subscription, local model
+- Tool system, workspace management, memory, file-based config
+- Terminal UI with a multi-theme color system audited against WCAG 2.1 (OKLCH)
+
+### [Tessar](https://github.com/tessar-ai/tessar)
+**Anything can be a plugin.** A TypeScript framework and SDK for building CLI agents and embedding agents in applications.
+- Agent loop, sessions, threads, tools, hooks, state and checkpoints
+- Storage: SQLite, PostgreSQL, MongoDB, libSQL
+- OpenTelemetry tracing, RAG chunking, standalone HTTP/SSE server
+- 10+ npm packages: `@tessar/core`, `@tessar/openai`, `@tessar/server`...
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -52,5 +69,3 @@
 </p>
 
 ---
-
-
